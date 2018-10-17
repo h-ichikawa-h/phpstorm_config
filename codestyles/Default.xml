@@ -1,4 +1,7 @@
 <code_scheme name="Default" version="173">
+  <SqlCodeStyleSettings version="1">
+    <option name="KEYWORD_CASE" value="0" />
+  </SqlCodeStyleSettings>
   <codeStyleSettings language="SQL">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
